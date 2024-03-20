@@ -18,6 +18,8 @@
 
   ## Usage
 
+  [Video Walkthrough](https://drive.google.com/file/d/1qxRcEl2IlubS9ILEPxDpxr6m9VXn4AQ8/view)
+
   The user can seed information into the data base by runing "npm run seed" in the command line. To use the application, invoke "node server.js" in the command line. This will create a server which can be used to show, create, update, and delete infromation from the database. 
 
   ## Testing
